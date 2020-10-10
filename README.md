@@ -1,8 +1,4 @@
 # github_sample
-今日の勉強会で作ったレポジトリです。
-テスト
-hogehoge
-hogehoge2
-hogehoge3
-
+2020年10月10日の講習会です。
+追記
 
